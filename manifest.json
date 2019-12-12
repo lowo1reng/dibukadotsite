@@ -1,0 +1,38 @@
+{
+  "name": "Berita Online Anak Milenial",
+  "short_name": "Dibuka.site",
+  "start_url": "https://www.dibuka.site/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Dibuka.site adalah portal berita online media Informasi berita terbaru dan terupdate,kumpulan tips dan Trik blog,serta tutorial blogger pemula",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-lG_WJnbkajI/XfDYbqlM2BI/AAAAAAAAApE/PRxJYbkiV7kGeQa-GnhGWko6-oQBljMkwCPcBGAYYCw/s48/favicon48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-8MXLUByP8T0/XfDYbjUDe5I/AAAAAAAAApI/_1JJeW19TDMvrwR2CvZmtVTMR5uD1GlHACPcBGAYYCw/s72/favicon64.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-mVi0J6NA8VQ/XfHMY2ir8II/AAAAAAAAAr0/F-zjsATdVv8vTyBDPBntv0ddYJDYO7ZXQCLcBGAsYHQ/s96/favicon96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-YHqgr5wmmiM/XfHMW-zFAZI/AAAAAAAAArg/MTcP1OMRdfAlbHfjQ-9fPA_uvF4IMD3LgCLcBGAsYHQ/s144/favicon144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-sLX6REfnwWw/XfHMXKafizI/AAAAAAAAAro/CIQs4QZYgtUmON-yOqQ0b_49zCyXaXeAwCLcBGAsYHQ/s168/favicon168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-HZFwSXAiS0U/XfHMXxmVXXI/AAAAAAAAArs/dCgKPgQzY04bQcV4rYFED7r9ljko7Sg_QCLcBGAsYHQ/s192/favicon192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-k89JmJY5RM0/XfHMYZeqo4I/AAAAAAAAArw/xLLmmjVSgCUbFLat6MsaeMSTw8JTre0gQCLcBGAsYHQ/s512/favicon512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
